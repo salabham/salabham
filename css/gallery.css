@@ -15,6 +15,11 @@
 	padding: 1rem;
 }
 
+.gal__heading  {
+	text-align: center;
+	margin-top: 50px;
+}
+
 .pricing__item {
 	position: relative;
 	display: -webkit-flex;
